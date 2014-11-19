@@ -1,1 +1,1 @@
-Plantilla base para Wordpress
+Contiene los archivos necesarios para iniciar una plantilla de Wordpress

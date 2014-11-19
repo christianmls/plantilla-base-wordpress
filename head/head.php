@@ -1,3 +1,4 @@
+<!-- Obtener HEAD -->
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <title><?php wp_title(); ?></title>
 
@@ -13,3 +14,4 @@
 	remove_action('wp_head', 'rsd_link');	
 	wp_head();
 ?>	
+<!-- Fin HEAD -->

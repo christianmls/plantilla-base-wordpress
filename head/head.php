@@ -7,7 +7,7 @@
 
 <meta name="author" content="cmaginet.com">
 <meta name="description" content="<?php bloginfo( 'description' ); ?>">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <?php
 	remove_action('wp_head', 'wp_generator');
 	remove_action('wp_head', 'wlwmanifest_link');
